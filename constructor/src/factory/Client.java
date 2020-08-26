@@ -2,6 +2,7 @@ package factory;
 
 /**
  * Created by Administrator on 2019/12/20.
+ * 工厂方法模式
  */
 public class Client {
 

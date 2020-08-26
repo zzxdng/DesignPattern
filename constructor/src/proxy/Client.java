@@ -2,6 +2,7 @@ package proxy;
 
 /**
  * Created by Administrator on 2019/12/25.
+ * 代理模式
  * 客户端类
  */
 public class Client {
